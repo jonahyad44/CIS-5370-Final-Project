@@ -14,3 +14,10 @@ __pycache__/
 # Temporary files
 *.tmp
 *.log
+
+# Original dataset
+data/incidents.csv
+
+# Local backup files
+results/healthcare_eligibility_review_backup.csv
+results/healthcare_eligibility_review_before_*.csv
